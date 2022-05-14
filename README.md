@@ -11,6 +11,8 @@
 
 This application is a progressive web app based text editor for users to easily access. It is enabled offline with cache functionalities as well.
 
+Deployed application: https://powerful-forest-62103.herokuapp.com/
+
 ## User Story
 
 ```md
